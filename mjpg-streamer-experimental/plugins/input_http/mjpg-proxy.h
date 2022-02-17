@@ -31,7 +31,7 @@
 #endif
 #endif
 
-#define BUFFER_SIZE 1024 * 256
+#define BUFFER_SIZE 1920 * 1920
 
 struct extractor_state {
     
